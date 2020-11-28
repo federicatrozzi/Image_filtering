@@ -38,6 +38,7 @@ Edges::Edges(Mat ImgIn, int kerSize,int choice)
 
 Edges::~Edges()
 {
+
 }
 
 void Edges::setInputImage(Mat img) {
